@@ -1,0 +1,9 @@
+torch==1.3.0
+torchvision==0.4.1
+numpy
+scipy
+tqdm
+jupyter
+pillow
+scikit-image==0.17.2
+Matplotlib

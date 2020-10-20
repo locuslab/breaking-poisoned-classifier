@@ -1,0 +1,3 @@
+[submodule "denoised-smoothing"]
+	path = denoised-smoothing
+	url = git@github.com:microsoft/denoised-smoothing.git
